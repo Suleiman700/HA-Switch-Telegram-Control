@@ -3,7 +3,7 @@
 
 ### Description
 
-With this repo, You can control your HA switches using via Telegram voice message.
+With this repo, You can control your HA switches using Telegram voice message.
 
 ### Flow
 
